@@ -1,3 +1,3 @@
 This contains things I learned yesterday:
 How to index tables
-
+I learned how to open a notebook
